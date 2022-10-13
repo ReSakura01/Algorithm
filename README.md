@@ -812,7 +812,7 @@ bool andrew()
 
 ### <font color = #C6E2FF> 数据范围所能使用的时间复杂度 </font> 
 
-  ![image-20220716215403466](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20220716215403466.png) 
+  ![](https://pic1.imgdb.cn/item/634775fe16f2c2beb1ec7038.png) 
 
 ### <font color=#C6E2FF> cf 防止哈希被卡</font> 
 ```cpp
