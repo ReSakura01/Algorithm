@@ -15,48 +15,6 @@ void print(int x) {
 }
 ```
 
-### <font color=#C6E2FF>答题模板</font> 
-```cpp
-// #pragma GCC optimize(3,"Ofast","inline")
-#include <bits/stdc++.h>
-// #define int long long
-using namespace std;
-
-#ifdef Kenshin
-#include "/Myfunc/debug.h"
-#else
-#define pr(...) cerr << "Accpect" << '\n'
-#endif
-
-#define sp ' '
-#define endl '\n'
-#define pb push_back
-
-#define mod(x) (x) % mod
-#define all(x) (x).begin(), (x).end()
-
-#define rep(i, a, b) for(int i = (a); i <= (b); i++)
-#define per(i, a, b) for(int i = (a); i >= (b); i--)
-
-typedef long long ll;
-typedef vector<int> vi;
-typedef pair<int, int> PII;
-
-const int mod = 1e9 + 7;
-const int inf = 0x3f3f3f3f;
-const int N = 2e5 + 10;
-
-int n, m;
-
-signed main(){
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-	
-    
-    return 0;
-}
-```
-
 ## <font color = #C6E2FF> 基础算法 </font>
 
 ### <font color=#C6E2FF> 高精度</font> 
